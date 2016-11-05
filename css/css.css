@@ -1,0 +1,26 @@
+body{
+	background: black;
+}
+.yaxis path,
+.yaxis line{
+	fill:none;
+	stroke:white;
+}
+.yaxis text{
+	font-family: sans-serif;
+	font-size: 20px;
+	fill:white;
+}
+.xaxis path,
+.xaxis line{
+	fill:none;
+	stroke:white;
+}
+.xaxis text{
+	font-family: sans-serif;
+	font-size: 20px;
+	fill:white;
+}
+.tip_line{
+	z-index: 1;
+}
